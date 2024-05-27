@@ -1,1 +1,2 @@
-# Reestar-Task
+This project involves creating a basic website using HTML and CSS. The objective is to gain hands-on experience with web development fundamentals and understand how to structure web content and apply styles effectively. The website will include multiple pages, providing information about a fictional topic of your choice, such as a personal portfolio, a hobby, a favorite book, or any other subject you are passionate about.
+
